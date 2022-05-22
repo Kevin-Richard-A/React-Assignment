@@ -1,0 +1,17 @@
+nav {
+    background-color: rgb(132, 184, 197);
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.menu{
+    font-size: larger;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: darksalmon;
+}
+/*nav a.active{
+    text-decoration:none;
+    font-weight: bold;
+} */
