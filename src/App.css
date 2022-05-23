@@ -1,0 +1,70 @@
+.App {
+    text-align: center;
+    background-color:rgb(233, 255, 31,0.25);
+    padding-top: 5%;
+    padding-bottom: 20%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.form{
+text-align: center;
+}
+
+
+.label{
+display: block;
+font-size: larger;
+font-weight: 1000;
+color: rgb(0, 19, 61);
+padding: 5px;
+text-align:center;
+}
+
+.input{
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+}
+
+input{
+font-size: larger;
+padding: 5px;
+margin: 2px;
+color: darkred;
+}
+
+.btn{
+color: rgb(121, 255, 68);
+background-color: rgba(44, 30, 105, 0.874);
+border-radius: 5px;
+font-size: larger;
+display: block;
+padding: 5px;
+margin: 10px auto;
+}
+
+.messages{
+display: flex;
+justify-content: center;
+}
+
+.error{
+display: block;
+background-color: red;
+color: white;
+width: fit-content;
+height: 50px;
+padding: 5px;
+}
+
+.success{
+display: block;
+background-color: lightblue;
+color: black;
+width: fit-content;
+height: 50px;
+padding: 5px;
+}

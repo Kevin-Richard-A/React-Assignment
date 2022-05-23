@@ -1,0 +1,27 @@
+body{
+    flex: none;
+    background-image:url(../src/Image/body-bg-image.png);
+    border-image-width: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 100%;
+}
+
+nav {
+    background-color: rgb(132, 184, 197,0.5);
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.menu{
+    font-size: larger;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(85, 248, 240,0.5);
+}
+/*nav a.active{
+    text-decoration:none;
+    font-weight: bold;
+} */
